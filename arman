@@ -1,0 +1,2 @@
+cd /data/data/com.termux/files/usr/share/ArMan
+sudo python3 arman.py -i wlan0 --iface-down -K
