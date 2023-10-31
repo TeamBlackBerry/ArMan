@@ -3,7 +3,7 @@ This is wifi hacking project for rooted phone and must use termux
 
 firt clone this repo 
 
-`git clone `
+`git clone https://github.com/TeamBlackBerry/ArMan`
 
 `cd ArMan`
 
