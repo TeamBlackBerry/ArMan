@@ -1,4 +1,4 @@
-# ArMan
+# Wifi Hacking Command 
 This is wifi hacking project for rooted phone and must use termux 
 
 firt clone this repo 
